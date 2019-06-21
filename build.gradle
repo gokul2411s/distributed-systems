@@ -48,3 +48,4 @@ def createScript(project, mainClass, name) {
 
 startScripts.enabled = false
 run.enabled = false
+createScript(project, 'personal.gokul2411s.distributed_systems.paxos.Simulation', 'paxos-simulation')
